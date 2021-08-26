@@ -2,10 +2,13 @@
 .navbar{
     border:solid 2px #f0f1f2;
     box-shadow: 0px 2px 8px 0px #F0F1F2;
+    
 
 }
 .navbrand{
     padding-right:900px;
+    text-decoration: none;
+    color: #000;
 }
 .nav-item{
     padding: 8px;
@@ -24,28 +27,36 @@ width:auto;}
     
 .card-cantainer{
     display: flex;
+    color: #ffffff;
 
 }
 .discription{
     display: flex;
     margin-left: 20px;
+    justify-content: space-evenly;
 }
-.card-para{
-    width:rem;
+.paragraph{
+    width:600px:
 }
-.main{
-    padding-top: 30px;
+.contents{
+    padding-left:  30px;
 }
-.content{
-    display:flex;
-}
+
+/* middle section */
 .middle-section{
     text-align: center;
     margin:100px;
 }
+.content{
+    display:flex;
+    justify-content: space-evenly;}
 .image{
 width:251.24px;
 height:136.28px
+}
+.content-section-para{
+    width: 251px;
+
 }
 .footer-section-header{
     background-color: #1890FF21;
